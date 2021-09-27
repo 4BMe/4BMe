@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=for%20better&fontSize=90&fontColor=000000)
-
 <h3>🧑‍💻</g-emoji> YongHun Kim </h3>
 <div class="highlight highlight-source-js position-relative"><pre><span class="pl-kos">{</span>
     <span class="pl-s">"name"</span>: <span class="pl-kos">[</span>
