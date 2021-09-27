@@ -30,7 +30,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=greenboy94)](https://solved.ac/greenboy94/)
 
-<h4> - <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji>aaa<code>vvv</code></h4>
+<h4> - <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji>I'm <code>in between jobs</code></h4>
 <h4> - <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <code>Spring Framework</code></h4>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4BMe&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
