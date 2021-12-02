@@ -15,7 +15,7 @@
     </clipboard-copy>
   </div></div>
 <hr>
-<p><strong>Problem Solving</strong>과 <strong>Clean Code</strong>에 관심 있는 개발자입니다.</p>
+<p><strong>고민</strong>을 즐기고 <strong>성장</strong>이 목적인 개발자입니다.</p>
 <p>한 사람이 작성한 것 같은, <strong>읽기 좋은 코드</strong>를 지향합니다. <strong>코드리뷰</strong>를 통해 높은 품질의 코드를 만들기 위해 노력하고 있습니다.</p>
 <p>B2C 기업의 <strong>백엔드 개발자</strong>로 일 하고 싶고 <strong>소외된 사람들</strong>을 위한 서비스를 만들어보고 싶습니다.</p>
 <p>--</p>
